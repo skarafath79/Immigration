@@ -1,0 +1,6 @@
+{
+  "name": "VisaBuddy AI",
+  "description": "Personal AI student immigration and visa interview coach with tailored questions, real-time answer feedback, voice practice, and readiness reports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
